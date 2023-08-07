@@ -30,6 +30,14 @@ p {
    font-size: 12px;
 }
 
+.body-login{
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
 /* Encabezado */
 .main-header {
    background-color: var(--amarillo);
